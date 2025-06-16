@@ -27,7 +27,8 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img.img-a.img-t(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img.img-a.img-t(src="@/assets/curso/temas/sintesis.svg", alt="La síntesis menciona los principales temas tratados sobre recolección y documentación de requisitos de software.").mb-4
+        figcaption Fuente. OIT, 2024.
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

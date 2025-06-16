@@ -23,7 +23,7 @@ export default {
     referencias: [
       {
         referencia:
-          'Ambler, S. W. (2002). The Agile Model Driven Development (AMDD) Process. Recuperado de ',
+          'Ambler, S. W. (2002). Agile Model Driven Development (AMDD). Recuperado',
         link:
           'https://typeset.io/pdf/agile-model-driven-development-amdd-ovo1df3coj.pdf',
       },

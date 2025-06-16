@@ -128,36 +128,36 @@
         .bgw.brad.p-5.my-5
           CarouselRED(tipo="b")
             .row.justify-content-center
-              .col-lg-6.my-2
+              .col-lg-6
                 h5.mb-4 Establecimiento de protocolos de validación
                 p Crear un conjunto de reglas y procedimientos que deben seguirse para validar los requisitos.
                 ul.lista-ul.fa-ul
                   li 
                     i.fas.fa-check-circle.color1
                     span #[b Ejemplo:] un protocolo podría especificar que todos los requisitos deben ser revisados por al menos dos #[i stakeholders] antes de ser aprobados.        
-              .col-lg-5.my-2 
+              .col-lg-5 
                 img.img-a.img-t(src='@/assets/curso/temas/43.png', alt='') 
 
             .row.justify-content-center
-              .col-lg-6.my-2
+              .col-lg-6
                 h5.mb-4 Uso de herramientas de gestión de requisitos
                 p Implementar #[i software] que facilite la validación y seguimiento de requisitos, como #[i Jira, Confluence o IBM DOORS].
                 ul.lista-ul.fa-ul
                   li 
                     i.fas.fa-check-circle.color1
                     span #[b Ejemplo:] utilizar #[i Jira] para rastrear el estado de cada requisito y asegurarse de que se cumplan los protocolos de validación.        
-              .col-lg-5.my-2 
+              .col-lg-5 
                 img.img-a.img-t(src='@/assets/curso/temas/44.png', alt='') 
 
             .row.justify-content-center
-              .col-lg-6.my-2
+              .col-lg-6
                 h5.mb-4 Cumplimiento con estándares organizacionales
                 p Asegurar que el proceso de validación cumpla con los estándares de calidad establecidos por la organización.
                 ul.lista-ul.fa-ul
                   li 
                     i.fas.fa-check-circle.color1
                     span #[b Ejemplo:] seguir las guías de validación definidas por el estándar IEEE 29148 para la especificación de requisitos de #[i software].         
-              .col-lg-5.my-2 
+              .col-lg-5 
                 img.img-a.img-t(src='@/assets/curso/temas/45.png', alt='') 
 </template>
 

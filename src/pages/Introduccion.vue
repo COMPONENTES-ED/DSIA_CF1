@@ -37,7 +37,7 @@
         .bg3.p-4.brad.h-100.j1
           p.mb-0 Finalmente, la validación de requisitos con los clientes se aborda mediante técnicas estructuradas, garantizando que las especificaciones sean correctas y completas. Este proceso incluye simulaciones y la aplicación de protocolos para hacer ajustes según sea necesario, minimizando el riesgo de errores en las etapas posteriores.    
 
-    p.mb-5 ¡Bienvenido a este recorrido por la recolección y documentación de requisitos, donde te adentrarás en las mejores prácticas para desarrollar #[i software] alineado con las expectativas del cliente!          
+    p.mb-5 ¡Bienvenido a este recorrido por la recolección y documentación de requisitos, donde se adentrará en las mejores prácticas para desarrollar #[em software] alineado con las expectativas del cliente!         
 
     .row.justify-content-center.align-items-center        
       .col-lg-12
